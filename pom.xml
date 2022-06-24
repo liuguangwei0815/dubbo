@@ -34,7 +34,7 @@
         <curator.framework.version>4.3.0</curator.framework.version>
         <resteasy.jaxrs.version>3.9.3.Final</resteasy.jaxrs.version>
         <resteasy.netty.version>3.10.0.Final</resteasy.netty.version>
-        <resteasy.client.version>4.4.2.Final</resteasy.client.version>
+        <resteasy.client.version>4.6.0.Final</resteasy.client.version>
         <resteasy.jackson.provider.version>3.9.3.Final</resteasy.jackson.provider.version>
         <okhttp.version>4.6.0</okhttp.version>
         <maven.war.plugin.version>3.2.3</maven.war.plugin.version>
